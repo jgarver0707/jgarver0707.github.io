@@ -29,3 +29,6 @@ At this point I was already back on campus, and I got my SSH working so that I c
 
 Generative AI helped with relevant configuration files for nodejs. Once you've got those down, you should have a server up.
 
+To log in, I used an SSH alias (stored in .ssh/config) so I could just type "ssh katana" instead of the entire command.
+
+To upgrade my system, I just need to run sudo pacman -Syu, as pacman is the main package manager for Arch linux.
